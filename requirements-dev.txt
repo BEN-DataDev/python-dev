@@ -1,0 +1,59 @@
+# Development Dependencies for Python GIS Development
+
+# Core GIS Libraries
+geopandas>=0.14.0
+shapely>=2.0.0
+fiona>=1.9.0
+rasterio>=1.3.0
+pyproj>=3.6.0
+
+# Spatial Analysis and Processing
+scipy>=1.10.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Mapping and Visualization
+folium>=0.14.0
+leaflet>=0.1.1
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Data Formats and IO
+netCDF4>=1.6.0
+h5py>=3.9.0
+xarray>=2023.11.0
+dask>=2023.11.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-xdist>=3.5.0
+hypothesis>=6.82.0
+
+# Code Quality and Linting
+black>=23.11.0
+flake8>=6.1.0
+pylint>=3.0.0
+isort>=5.13.0
+mypy>=1.7.0
+
+# Documentation
+sphinx>=7.2.0
+sphinx-rtd-theme>=2.0.0
+sphinx-autodoc-typehints>=1.25.0
+
+# Development Tools
+ipython>=8.17.0
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipykernel>=6.26.0
+ipywidgets>=8.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+click>=8.1.0
+pydantic>=2.5.0
